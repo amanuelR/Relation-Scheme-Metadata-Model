@@ -1,5 +1,6 @@
 /*
     Relation Scheme Metadata Homework DDL, Triggers, and Procedures
+    Author: Amanuel Reda
 */
 
 /* DDL for models table */
