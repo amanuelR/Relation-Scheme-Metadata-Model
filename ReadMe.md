@@ -7,3 +7,8 @@ database.
 In this project, I am going to model the information content of the relation scheme diagram, combined with the database model into one model, and then write code to
     <br>a) enforce important constraints on the data that we put into our meta data database, and 
     <br>b) produce useful output (like the DDL statements to create the corresponding tables).
+    
+
+<h2> UML Class Diagram </h2>
+![Screenshot (1)](https://user-images.githubusercontent.com/92605110/171063833-072d8cf2-05b4-487c-a213-6c003b10d7d3.png)
+<h2> Relation Scheme </h2>
