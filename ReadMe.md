@@ -9,6 +9,9 @@ In this project, I am going to model the information content of the relation sch
     <br>b) produce useful output (like the DDL statements to create the corresponding tables).
     
 <h2> UML Class Diagram </h2>
+
 ![Screenshot (1)](https://user-images.githubusercontent.com/92605110/171063833-072d8cf2-05b4-487c-a213-6c003b10d7d3.png)
+
 <h2> Relation Scheme </h2>
+
 ![RSMHW-Page-2](https://user-images.githubusercontent.com/92605110/171064382-529ffb0e-ad93-425d-85d7-e352c84b0d19.jpg)
